@@ -1,0 +1,16 @@
+{
+    "automationName": "XCUITest",
+    "platformName": "iOS",
+    "platformVersion": "15.5",
+    "deviceName": "iPhone Simulator",
+    "fullReset": "true",
+    "language": "en",
+    "app": "/Users/sofia/PycharmProjects/zerion_ios_aft/resources/Zerion.app",
+    "url": "http://localhost:4723/wd/hub"
+}
+
+Configuration loaded from /Users/sofia/PycharmProjects/zerion_ios_aft/resources/configuration.txt
+Driver started!
+4.5830163397371155
+4.898224380315016
+3.5619869524015155

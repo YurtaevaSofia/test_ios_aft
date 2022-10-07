@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 04 01:32:16 ALMT 2022","Thu Aug 04 01:32:30 ALMT 2022","13835","pages_check","test_get_started_page_check","TestPages","","","get_started_page_check","Test checks all elements presented on start_page"

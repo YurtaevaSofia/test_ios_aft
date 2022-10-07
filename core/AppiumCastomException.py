@@ -1,0 +1,2 @@
+class AppiumCastomException(Exception):
+    pass
